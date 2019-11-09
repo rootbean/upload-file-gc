@@ -1,0 +1,6 @@
+
+.envrc
+.env
+node_modules
+serviceAccountKey.json
+app.yaml
